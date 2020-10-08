@@ -2,9 +2,6 @@
 
 **[process.patrickjam.es/](https://process.patrickjam.es/2020/09/24/week-4-analog-read/)**
 
-![sketch1 breadboard](/documentationAssets/sketch1_bb.png)
-
-
 ```c++
 void setup() {
   Serial.begin(9600);
@@ -18,3 +15,5 @@ void loop() {
 }
 
 ```
+
+![sketch1 breadboard](/documentationAssets/sketch1_bb.png)
